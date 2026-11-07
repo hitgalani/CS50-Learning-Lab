@@ -1,0 +1,23 @@
+# Keep this personal guide out of the repository
+self.md
+
+# Ignore the local virtual environment folder
+venv/
+.venv/
+env/
+ENV/
+
+# Ignore compiled python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Ignore environment variables/secrets files
+.env
+.env.local
+
+# Ignore system junk files
+.DS_Store
+Thumbs.db
