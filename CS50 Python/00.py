@@ -29,7 +29,8 @@ print(f"cleaned: {name}")
 
 # 8. split
 full = input("Full name: ").strip().title()
-first, last = full.split(" ")
+parts = full.split(maxsplit=1)
+first = parts[0] if parts else ""
 print(f"hello, {first}")
 
 # 9. calculator (type conversion)

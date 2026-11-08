@@ -76,7 +76,7 @@ A **heuristic** is a rule-of-thumb guess of how close a state is to the goal.
 - Test each small function alone before combining them.
 
 ## 10. Try yourself
-- In `practice.py`, change `guess["C"]` to `1` and run greedy again. Does it
+- In `00.py`, change `guess["C"]` to `1` and run greedy again. Does it
   still find the best path?
 - Add a new city to the graph and run all four searches.
 - Draw the minimax tree on paper and find the answer before running it.
