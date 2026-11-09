@@ -1,23 +1,37 @@
 # Keep this personal guide out of the repository
 self.md
 
-# Ignore the local virtual environment folder
+# Python virtual environment
 venv/
 .venv/
 env/
 ENV/
 
-# Ignore compiled python cache files
+# Python cache and build files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
 .pytest_cache/
+*.egg-info/
+build/
+dist/
 
-# Ignore environment variables/secrets files
+# Secrets and environment variables (never upload these)
 .env
 .env.local
+*.key
+secrets.*
 
-# Ignore system junk files
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor files
+.vscode/
+.idea/
+
+# System junk files
 .DS_Store
 Thumbs.db
+
+# Logs and local databases
+*.log
+*.sqlite3
