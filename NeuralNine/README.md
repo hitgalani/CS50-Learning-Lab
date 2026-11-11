@@ -1,75 +1,16 @@
-# NeuralNine
+# NeuralNine Learning
 
-Everything I learn from the **NeuralNine** YouTube channel goes in this folder.
+This folder contains everything I learn from the **[NeuralNine YouTube Channel](https://www.youtube.com/@NeuralNine)**.
 
-Channel: https://www.youtube.com/@NeuralNine
+I use this folder to organize my learning materials, practice code, examples, notes, and projects based on NeuralNine's tutorials.
 
----
+Feel free to explore, learn, and use the resources in this folder. You can also fork this repository and experiment with the code to improve your skills.
 
-## How I use this folder
+**Have questions or suggestions?**
 
-- Make **one sub-folder for each playlist** (for example `Python Beginner/`, `Flask/`).
-- Inside each, keep the code I write while watching, plus a `notes.md` in my own words.
-- After each video: watch, code along, then close the video and rebuild it from memory.
+If you find something unclear or have any questions, feel free to contact me on Instagram. I'll be happy to help whenever I can.
 
-Example:
+- **YouTube:** [NeuralNine](https://www.youtube.com/@NeuralNine)
+- **Instagram:** [@_hitgalani_](https://www.instagram.com/_hitgalani/)
 
-```
-NeuralNine/
-├── Python Beginner/
-├── Python Intermediate/
-├── Flask/
-├── SQL/
-├── Python AI Projects/
-└── README.md
-```
-
----
-
-## Playlists I follow
-
-| Playlist | Lessons | Link |
-|---|---|---|
-| Python Beginner Tutorial | 10 | https://www.youtube.com/playlist?list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc |
-| Python Intermediate Tutorial | 11 | https://www.youtube.com/playlist?list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1 |
-| Python Tips and Tricks | 16 | https://www.youtube.com/playlist?list=PL7yh-TELLS1GNyuvPsFEqb7JVMEUTtuau |
-| Python Advanced Tutorials | 10 | https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc |
-| Data Structures in Python | 9 | https://www.youtube.com/playlist?list=PL7yh-TELLS1Gs3PjmhXTXh1FdpGg6iing |
-| Linux | 9 | https://www.youtube.com/playlist?list=PL7yh-TELLS1FRoV4TCJjyEwh_Ye1o9sik |
-| Flask Tutorial Series | 10 | https://www.youtube.com/playlist?list=PL7yh-TELLS1EyAye_UMnlsTGKxg8uatkM |
-| SQL Tutorial Series | 6 | https://www.youtube.com/playlist?list=PL7yh-TELLS1FVLG6AFoT-3lVcbJiPTWze |
-| Python AI Projects | 54 | https://www.youtube.com/playlist?list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg- |
-| Python Data Science Tutorial (optional) | 17 | https://www.youtube.com/playlist?list=PL7yh-TELLS1FfO5Q8KHK31VgsrcnWcTAk |
-| Python Machine Learning Tutorial (optional) | 8 | https://www.youtube.com/playlist?list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ |
-
-(Lesson counts are from the channel's playlist page and may change.)
-
----
-
-## My progress
-
-| Playlist | Status | Lessons done | Notes |
-|---|---|---|---|
-| Python Beginner | Not started | 0 / 10 | |
-| Python Intermediate | Not started | 0 / 11 | |
-| Flask | Not started | 0 / 10 | |
-| SQL | Not started | 0 / 6 | |
-| Python AI Projects | Not started | 0 / 54 | |
-
-(Status options: Not started / Learning / Done)
-
----
-
-## What I can do now
-
-I will update this as I learn.
-
-- [ ] (Add a skill here after each playlist)
-- [ ] 
-
----
-
-## Notes
-
-- If a video is old, check the official docs because libraries change.
-- Never upload secret keys (API keys, passwords) to GitHub.
+Happy Learning! 🚀
