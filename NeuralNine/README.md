@@ -1,4 +1,4 @@
-# NeuralNine Learning 🚀
+# NeuralNine Learning 
 
 This folder contains everything I learn from the **[NeuralNine YouTube Channel](https://www.youtube.com/@NeuralNine)**.
 
@@ -11,6 +11,6 @@ Feel free to explore, learn, and use these resources. You can also fork this rep
 Feel free to reach out! Whether you want to discuss something, share an idea, or ask for help, I'm always happy to connect and learn together.
 
 - **YouTube:** [NeuralNine](https://www.youtube.com/@NeuralNine)
-- **Instagram:** [@_hitgalani_](https://www.instagram.com/_hitgalani/)
+- **X (Twitter):** [@HitGalani](https://x.com/HitGalani)
 
 **Keep Learning. Keep Building. Keep Growing!** 🌱
